@@ -1,13 +1,12 @@
 #!/usr/bin/python
 # -*- coding:utf-8 -*-
 ##
- # Copyright (C) 2018 All rights reserved.
+ # Copyright (C) 2025 All rights reserved.
  #   
  # @File conf.py
- # @Brief 
- # @Author abelzhu, abelzhu@tencent.com
+ # @Author qimeng，linmeng2017@outlook.com,https://www.zhihu.com/people/lin-mei-81-26
  # @Version 1.0
- # @Date 2018-02-23
+ # @Date 2025-08-20
  #
  #
  
