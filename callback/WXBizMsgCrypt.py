@@ -274,5 +274,5 @@ class WXBizMsgCrypt(object):
 
 #1. 将上述两个文件保存到`~/wework-bot/weworkapi_python-master/callback/`目录
 #1. 确保文件名为`WXBizMsgCrypt.py`和`ierror.py`
-#1. 运行您的`workwx.py`
+#1. 运行您的`0.py`
 
